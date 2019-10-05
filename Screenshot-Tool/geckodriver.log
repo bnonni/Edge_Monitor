@@ -1,0 +1,9 @@
+1518212180848	geckodriver	INFO	geckodriver 0.19.1
+1518212180858	geckodriver	INFO	Listening on 127.0.0.1:49942
+1518212183972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.t4MRUX9xYHzr"
+*** You are running in headless mode.
+1518212184872	Marionette	INFO	Enabled via --marionette
+1518212186576	Marionette	INFO	Listening on port 49950
+1518212187096	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 9180, Chrome_ChildThread] WARNING: pipe error: 232: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 513

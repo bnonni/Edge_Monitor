@@ -1,0 +1,572 @@
+1517766124640	geckodriver	INFO	geckodriver 0.19.1
+1517766124649	geckodriver	INFO	Listening on 127.0.0.1:50272
+1517766127687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.Rl8dpgtJ7NuX"
+1517766130177	Marionette	INFO	Enabled via --marionette
+1517766134189	Marionette	INFO	Listening on port 50284
+1517766135221	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517766413740	geckodriver	INFO	geckodriver 0.19.1
+1517766413749	geckodriver	INFO	Listening on 127.0.0.1:53331
+1517766416820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ewzrgYNzAGul"
+1517766417450	Marionette	INFO	Enabled via --marionette
+1517766419116	Marionette	INFO	Listening on port 53339
+1517766419945	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517766510722	geckodriver	INFO	geckodriver 0.19.1
+1517766510732	geckodriver	INFO	Listening on 127.0.0.1:53469
+1517766513791	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.rtOWo9UcQFxh"
+1517766514424	Marionette	INFO	Enabled via --marionette
+1517766516145	Marionette	INFO	Listening on port 53477
+1517766516930	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517766582426	geckodriver	INFO	geckodriver 0.19.1
+1517766582436	geckodriver	INFO	Listening on 127.0.0.1:53679
+1517766585508	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.qdzKK42wjneO"
+1517766586112	Marionette	INFO	Enabled via --marionette
+1517766587815	Marionette	INFO	Listening on port 53687
+1517766588641	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517766765047	geckodriver	INFO	geckodriver 0.19.1
+1517766765057	geckodriver	INFO	Listening on 127.0.0.1:54063
+1517766768112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.GjN91eEZ3kTr"
+1517766768836	Marionette	INFO	Enabled via --marionette
+1517766770925	Marionette	INFO	Listening on port 54073
+1517766771287	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517766880674	geckodriver	INFO	geckodriver 0.19.1
+1517766880683	geckodriver	INFO	Listening on 127.0.0.1:54306
+1517766883720	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.JDl1WoH3b7P5"
+1517766884380	Marionette	INFO	Enabled via --marionette
+1517766886309	Marionette	INFO	Listening on port 54315
+1517766886856	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517766921975	geckodriver	INFO	geckodriver 0.19.1
+1517766921984	geckodriver	INFO	Listening on 127.0.0.1:54497
+1517766925020	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.wdgqijFwurcd"
+1517766925760	Marionette	INFO	Enabled via --marionette
+1517766927739	Marionette	INFO	Listening on port 54508
+1517766928158	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517767759347	geckodriver	INFO	geckodriver 0.19.1
+1517767759357	geckodriver	INFO	Listening on 127.0.0.1:55147
+1517767762395	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.UbgMaOFnvjIz"
+1517767765281	Marionette	INFO	Enabled via --marionette
+1517767768126	Marionette	INFO	Listening on port 55156
+1517767768623	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9468, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517767942966	geckodriver	INFO	geckodriver 0.19.1
+1517767942975	geckodriver	INFO	Listening on 127.0.0.1:55281
+1517767946025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.7fHiZICdo0uy"
+1517767946834	Marionette	INFO	Enabled via --marionette
+1517767949016	Marionette	INFO	Listening on port 55290
+1517767949163	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 1200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12756, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517768034060	geckodriver	INFO	geckodriver 0.19.1
+1517768034070	geckodriver	INFO	Listening on 127.0.0.1:55394
+1517768037106	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.fWxgjmp3Hl1R"
+1517768037795	Marionette	INFO	Enabled via --marionette
+1517768039705	Marionette	INFO	Listening on port 55402
+1517768040219	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode232
+Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:226:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:235:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:88:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:2791:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1569:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1569:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:918:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:512:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/childtab.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:495:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1891:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1891:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:756:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1508:7
+onDisconnect<@resource://devtools/server/child.js:118:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 226, column: 5
+console.error: 
+  Handler function threw an exception: TypeError: this.walker is null
+Stack: get conn@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:226:5
+parent@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:775:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:860:18
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:235:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/styles.js:88:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:877:9
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/shared/protocol.js:949:5
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js:2791:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+removeActorPool/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1569:27
+removeActorPool@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1569:9
+_detach@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:918:7
+exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:512:5
+ContentActor.prototype.exit@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/childtab.js:70:3
+destroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js:495:5
+removeActor@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:261:7
+APDestroy@resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/common.js:224:7
+onClosed/<@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1891:35
+onClosed@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1891:5
+close@resource://devtools/shared/base-loader.js -> resource://devtools/shared/transport/transport.js:756:7
+close@resource://devtools/shared/base-loader.js -> resource://devtools/server/main.js:1508:7
+onDisconnect<@resource://devtools/server/child.js:118:7
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+Line: 226, column: 5
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6680, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 10864, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+1517768234402	geckodriver	INFO	geckodriver 0.19.1
+1517768234411	geckodriver	INFO	Listening on 127.0.0.1:55558
+1517768237463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ixMGQkqJOaNb"
+1517768238153	Marionette	INFO	Enabled via --marionette
+1517768240073	Marionette	INFO	Listening on port 55567
+1517768240577	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 204, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 7476, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+ni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15836, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517768429989	geckodriver	INFO	geckodriver 0.19.1
+1517768429998	geckodriver	INFO	Listening on 127.0.0.1:55786
+1517768433016	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.vWVpZmkLPfcT"
+1517768433733	Marionette	INFO	Enabled via --marionette
+1517768435601	Marionette	INFO	Listening on port 55794
+1517768436141	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12116, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8044, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1056, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517768465292	geckodriver	INFO	geckodriver 0.19.1
+1517768465301	geckodriver	INFO	Listening on 127.0.0.1:55890
+1517768468356	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.iSN65hss2ecR"
+1517768469073	Marionette	INFO	Enabled via --marionette
+1517768471035	Marionette	INFO	Listening on port 55898
+1517768471481	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6684, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 15160, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517768601272	geckodriver	INFO	geckodriver 0.19.1
+1517768601283	geckodriver	INFO	Listening on 127.0.0.1:56013
+1517768604324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.8vmTf281R07B"
+1517768604946	Marionette	INFO	Enabled via --marionette
+1517768606637	Marionette	INFO	Listening on port 56021
+1517768607439	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517768804772	geckodriver	INFO	geckodriver 0.19.1
+1517768804781	geckodriver	INFO	Listening on 127.0.0.1:56229
+1517768807852	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.xu3f6P9XJPUc"
+1517768808512	Marionette	INFO	Enabled via --marionette
+1517768810612	Marionette	INFO	Listening on port 56237
+1517768810978	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 9864, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12660, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 8976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517768916517	geckodriver	INFO	geckodriver 0.19.1
+1517768916526	geckodriver	INFO	Listening on 127.0.0.1:56359
+1517768919589	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ZpONEd5BWFCB"
+1517768920191	Marionette	INFO	Enabled via --marionette
+1517768921817	Marionette	INFO	Listening on port 56369
+1517768922709	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 1280, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 6980, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517768975434	geckodriver	INFO	geckodriver 0.19.1
+1517768975443	geckodriver	INFO	Listening on 127.0.0.1:56468
+1517768978518	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.zefLMpWUec9t"
+1517768979121	Marionette	INFO	Enabled via --marionette
+1517768980824	Marionette	INFO	Listening on port 56476
+1517768981630	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1521517769060419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.399zjMyl0Znh"
+1517769061022	Marionette	INFO	Enabled via --marionette
+1517769062691	Marionette	INFO	Listening on port 56581
+1517769063531	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 16272, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 5380, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517769109502	geckodriver	INFO	geckodriver 0.19.1
+1517769109510	geckodriver	INFO	Listening on 127.0.0.1:56685
+1517769112550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.gdUL934WfgbR"
+1517769113147	Marionette	INFO	Enabled via --marionette
+1517769114801	Marionette	INFO	Listening on port 56694
+1517769115684	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10744, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 4520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517769176086	geckodriver	INFO	geckodriver 0.19.1
+1517769176095	geckodriver	INFO	Listening on 127.0.0.1:56786
+1517769179136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.fC0qglGNIhsK"
+1517769179801	Marionette	INFO	Enabled via --marionette
+1517769181518	Marionette	INFO	Listening on port 56794
+1517769182258	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode148
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14088, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517769282041	geckodriver	INFO	geckodriver 0.19.1
+1517769282049	geckodriver	INFO	Listening on 127.0.0.1:56905
+1517769285116	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.nC7u1tdOi2EF"
+1517769285716	Marionette	INFO	Enabled via --marionette
+1517769287354	Marionette	INFO	Listening on port 56913
+1517769288275	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode147
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://www.ebates.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.error: 
+  Got a removal of an actor we didn't know about: server1.conn0.child1/domnode282
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 156: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 156: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+[Child 14452, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517769707019	geckodriver	INFO	geckodriver 0.19.1
+1517769707028	geckodriver	INFO	Listening on 127.0.0.1:57242
+1517769710155	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.xJr2J6kz3vii"
+1517769710753	Marionette	INFO	Enabled via --marionette
+1517769712460	Marionette	INFO	Listening on port 57250
+1517769713283	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 10948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15992, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 14988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 10948, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517769807379	geckodriver	INFO	geckodriver 0.19.1
+1517769807387	geckodriver	INFO	Listening on 127.0.0.1:57354
+1517769810446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.znaH4ScQAqP3"
+1517769811052	Marionette	INFO	Enabled via --marionette
+1517769812729	Marionette	INFO	Listening on port 57363
+1517769813571	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/tab.js, line 1647: TypeError: can't access dead object
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+JavaScript error: resource:///modules/ContentMetaHandler.jsm, line 156: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1291517770070871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.Au7h1UfEnZBn"
+1517770071487	Marionette	INFO	Enabled via --marionette
+1517770073163	Marionette	INFO	Listening on port 57542
+1517770074003	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 13424, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 7316, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517770246757	geckodriver	INFO	geckodriver 0.19.1
+1517770246766	geckodriver	INFO	Listening on 127.0.0.1:57662
+1517770249840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.HAAS2RFQsA97"
+1517770250460	Marionette	INFO	Enabled via --marionette
+1517770252142	Marionette	INFO	Listening on port 57670
+1517770252954	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 15284, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517770326170	geckodriver	INFO	geckodriver 0.19.1
+1517770326178	geckodriver	INFO	Listening on 127.0.0.1:57781
+1517770329234	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.kgMGGPNwk35w"
+1517770329859	Marionette	INFO	Enabled via --marionette
+1517770331556	Marionette	INFO	Listening on port 57790
+1517770332357	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: LoginRecipes: getRecipes: falling back to a synchronous message for: https://accounts.google.com
+console.warn: nsLoginManager: searchLogins: `formSubmitURL` or `httpRealm` is recommended
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 2676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 2676, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 14164, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517849421085	geckodriver	INFO	geckodriver 0.19.1
+1517849421097	geckodriver	INFO	Listening on 127.0.0.1:61590
+1517849424149	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.wyZg46r7wPdL"
+1517849425657	Marionette	INFO	Enabled via --marionette
+1517849427592	Marionette	INFO	Listening on port 61602
+1517849427778	Marionette	WARN	TLS certificate errors will be ignored for this session
+1517870867943	geckodriver	INFO	geckodriver 0.19.1
+1517870867952	geckodriver	INFO	Listening on 127.0.0.1:54533
+1517870871019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.uyNWfBnjfiwA"
+1517870872203	Marionette	INFO	Enabled via --marionette
+1517870874018	Marionette	INFO	Listening on port 54548
+1517870874137	Marionette	WARN	TLS certificate errors will be ignored for this session
+1518028726582	geckodriver	INFO	geckodriver 0.19.1
+1518028726598	geckodriver	INFO	Listening on 127.0.0.1:52252
+1518028729780	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.xKX6Umo9AHnk"
+1518028731953	Marionette	INFO	Enabled via --marionette
+1518028734358	Marionette	INFO	Listening on port 52266
+1518028735068	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: https://www.facebook.com/rsrc.php/v3iG-04/yV/l/en_US/SAuPpHBEgMJ.js, line 98: NS_ERROR_NOT_INITIALIZED: 

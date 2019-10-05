@@ -1,0 +1,860 @@
+1517871056367	geckodriver	INFO	geckodriver 0.19.1
+1517871056970	geckodriver	INFO	Listening on 127.0.0.1:55132
+1517871060095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.2G5bw3hcYgXF"
+1517871060777	Marionette	INFO	Enabled via --marionette
+1517871062677	Marionette	INFO	Listening on port 55161
+1517871063210	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/utils/markup.js, line 244: TypeError: this.highlighterEnv is null
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 34492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:598:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Parent 34492, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 28868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517871139436	geckodriver	INFO	geckodriver 0.19.1
+1517871139445	geckodriver	INFO	Listening on 127.0.0.1:55423
+1517871142761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ojfgjXXDgG46"
+1517871143388	Marionette	INFO	Enabled via --marionette
+1517871145375	Marionette	INFO	Listening on port 55440
+1517871145879	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+1517949705493	geckodriver	INFO	geckodriver 0.19.1
+1517949706971	geckodriver	INFO	Listening on 127.0.0.1:49686
+1517949717483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.cFKb7PzxlzIr"
+1517949719232	Marionette	INFO	Enabled via --marionette
+1517949721233	Marionette	INFO	Listening on port 49704
+1517949721298	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 32740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 32740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 31396, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/highlighters/utils/markup.js, line 244: TypeError: this.highlighterEnv is null
+JavaScript error: resource://devtools/shared/base-loader.js -> resource://devtools/server/actors/inspector.js, line 1044: TypeError: this._refMap is null
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 8004, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 6340, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12560, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517950583442	geckodriver	INFO	geckodriver 0.19.1
+1517950583473	geckodriver	INFO	Listening on 127.0.0.1:51046
+1517950591658	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.UBNa3v7aT5La"
+1517950592443	Marionette	INFO	Enabled via --marionette
+1517950594218	Marionette	INFO	Listening on port 51059
+1517950594984	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3D1c0b8660e853163cd3925e83135ea4cc%26jpj%3D74373629779170#/, line 864: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 24572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 12052, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 24572, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517950693132	geckodriver	INFO	geckodriver 0.19.1
+1517950693141	geckodriver	INFO	Listening on 127.0.0.1:51250
+1517950701097	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.GGeDGPQ4xgW6"
+1517950701945	Marionette	INFO	Enabled via --marionette
+1517950703999	Marionette	INFO	Listening on port 51262
+1517950704285	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3D1c0b8660e853163cd3925e83135ea4cc%26jpj%3D74373629779170#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3D1c0b8660e853163cd3925e83135ea4cc%26jpj%3D74373629779170#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1517951456793	geckodriver	INFO	geckodriver 0.19.1
+1517951458254	geckodriver	INFO	Listening on 127.0.0.1:52241
+1517951468519	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ORr3ojAHYkUx"
+1517951469694	Marionette	INFO	Enabled via --marionette
+1517951471779	Marionette	INFO	Listening on port 52306
+1517951472245	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C02%252F01%252F17%253Bperiod_to%257C01%252F31%252F18%253Bperiod%257C1170101D365%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3D02eb03410162724dbb9df26306ecc065%26jpj%3D75084692353034#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C02%252F01%252F17%253Bperiod_to%257C01%252F31%252F18%253Bperiod%257C1170101D365%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3D02eb03410162724dbb9df26306ecc065%26jpj%3D75084692353034#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C02%252F01%252F17%253Bperiod_to%257C01%252F31%252F18%253Bperiod%257C1170101D365%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3D02eb03410162724dbb9df26306ecc065%26jpj%3D75084692353034#/, line 817: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C02%252F01%252F17%253Bperiod_to%257C01%252F31%252F18%253Bperiod%257C1170101D365%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3D02eb03410162724dbb9df26306ecc065%26jpj%3D75084692353034#/, line 817: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PAPZCTreeManager::Msg_SetTargetAPZC Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+JavaScript error: https://sc5.omniture.com/spa/dist/js/sc-reports.min.js?l=en_US&version=1516924447, line 1: TypeError: window.analyticsui is undefined
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 16624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 19244, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addSecurityInfo threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+NetworkResponseListener.prototype._getSecurityInfo<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:516:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+onStartRequest@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:436:5
+Line: 1859, column: 0
+Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+console.error: 
+  Handler function NetworkEventActorProxy.addResponseContent threw an exception: [Exception... "Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0xc1f30001 (NS_ERROR_NOT_INITIALIZED)"  location: "JS frame :: resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js :: NetworkEventActorProxy.methodFactory/< :: line 1859"  data: no]
+Stack: NetworkEventActorProxy.methodFactory/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:1859:5
+exports.makeInfallible/<@resource://devtools/shared/base-loader.js -> resource://devtools/shared/ThreadSafeDevToolsUtils.js:109:14
+_onComplete@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:641:5
+onStreamClose@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:590:7
+onInputStreamReady@resource://devtools/shared/base-loader.js -> resource://devtools/shared/webconsole/network-monitor.js:689:7
+Line: 1859, column: 0
+[Parent 16624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30260, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 27988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 27988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 16624, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 11820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1517953136721	geckodriver	INFO	geckodriver 0.19.1
+1517953136737	geckodriver	INFO	Listening on 127.0.0.1:54390
+1517953143925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.Kwo7MG7hwhah"
+1517953145387	Marionette	INFO	Enabled via --marionette
+1517953147347	Marionette	INFO	Listening on port 54402
+1517953147578	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C08%252F21%252F17%253Bperiod_to%257C02%252F06%252F18%253Bperiod%257C1170721D170%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3D563f6968b3a6f5b335b458c7e03a4202%26jpj%3D6710189824743#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C08%252F21%252F17%253Bperiod_to%257C02%252F06%252F18%253Bperiod%257C1170721D170%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3D563f6968b3a6f5b335b458c7e03a4202%26jpj%3D6710189824743#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 25756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Marionette threw an error: [Exception... "Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIMessageSender.sendAsyncMessage]"  nsresult: "0x80070057 (NS_ERROR_ILLEGAL_VALUE)"  location: "JS frame :: chrome://marionette/content/proxy.js :: sendReply_ :: line 272"  data: no]
+sendReply_@chrome://marionette/content/proxy.js:272:5
+reply@chrome://marionette/content/proxy.js:258:7
+sendToServer@chrome://marionette/content/listener.js:686:3
+sendError@chrome://marionette/content/listener.js:721:3
+dispatch/</<@chrome://marionette/content/listener.js:484:49
+
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 32740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 25756, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518118655040	geckodriver	INFO	geckodriver 0.19.1
+1518118655232	geckodriver	INFO	Listening on 127.0.0.1:53247
+1518118658845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.tfZXHjLG2B3j"
+1518118660394	Marionette	INFO	Enabled via --marionette
+1518118662399	Marionette	INFO	Listening on port 53258
+1518118662508	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C10%252F01%252F17%253Bperiod_to%257C02%252F08%252F18%253Bperiod%257C1170901D131%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3Df26a8db0502f12420eb034d3dca87ad1%26jpj%3D88175838192310#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Frp%3Dperiod_from%257C10%252F01%252F17%253Bperiod_to%257C02%252F08%252F18%253Bperiod%257C1170901D131%253Brange_period%257C1%26r%3DReport.GetConversions%26a%3DReport.Standard%26ssSession%3Df26a8db0502f12420eb034d3dca87ad1%26jpj%3D88175838192310#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 12432, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: resource:///modules/FormSubmitObserver.jsm, line 218: TypeError: this._mm is null
+JavaScript error: https://assets.adobedtm.com/98fab992275ef6366cc65f57f86b1e895a66c912/satelliteLib-1be49a4f81ac772ee656d1381455096eb3d9d3a6.js, line 10: TypeError: t.location is null
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x2C00AC,name=PContent::Msg_ScriptError) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 14412, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518118681815	geckodriver::marionette	ERROR	Failed to kill browser process
+1518118715545	geckodriver	INFO	geckodriver 0.19.1
+1518118715555	geckodriver	INFO	Listening on 127.0.0.1:53366
+1518118719578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.PyoZbjSjc9CS"
+1518118720220	Marionette	INFO	Enabled via --marionette
+1518118722118	Marionette	INFO	Listening on port 53377
+1518118722699	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1518119005750	geckodriver	INFO	geckodriver 0.19.1
+1518119005759	geckodriver	INFO	Listening on 127.0.0.1:53904
+1518119009767	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.tohSuwomIacd"
+1518119010483	Marionette	INFO	Enabled via --marionette
+1518119012290	Marionette	INFO	Listening on port 53918
+1518119012907	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 13648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 13648, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518119043360	geckodriver	INFO	geckodriver 0.19.1
+1518119043369	geckodriver	INFO	Listening on 127.0.0.1:54058
+1518119047360	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ftwYgJ3LNKen"
+1518119048025	Marionette	INFO	Enabled via --marionette
+1518119049830	Marionette	INFO	Listening on port 54074
+1518119050481	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript error: https://assets.adobedtm.com/98fab992275ef6366cc65f57f86b1e895a66c912/scripts/satellite-58fa8c6c64746d190b008dcf.js, line 44: ReferenceError: somg is not defined
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+[Child 21820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21820, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 23216, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518119153404	geckodriver	INFO	geckodriver 0.19.1
+1518119153413	geckodriver	INFO	Listening on 127.0.0.1:54325
+1518119157455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.YDbPJUgj6sCp"
+1518119158208	Marionette	INFO	Enabled via --marionette
+1518119160091	Marionette	INFO	Listening on port 54345
+1518119160580	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 18456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22652, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 18456, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23104, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518119196318	geckodriver	INFO	geckodriver 0.19.1
+1518119196327	geckodriver	INFO	Listening on 127.0.0.1:54497
+1518119200139	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.jELGIvCGQR0n"
+1518119200809	Marionette	INFO	Enabled via --marionette
+1518119202669	Marionette	INFO	Listening on port 54512
+1518119203260	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 2071518119234926	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ZpDsyDmIinbW"
+1518119235605	Marionette	INFO	Enabled via --marionette
+1518119237695	Marionette	INFO	Listening on port 54618
+1518119238043	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 22744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 22744, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 23356, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 4656, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518120162957	geckodriver	INFO	geckodriver 0.19.1
+1518120162970	geckodriver	INFO	Listening on 127.0.0.1:55604
+1518120166871	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.Stk8rW2JOn1a"
+1518120167698	Marionette	INFO	Enabled via --marionette
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1518120169811	Marionette	INFO	Listening on port 55612
+1518120169991	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+1518120622521	geckodriver	INFO	geckodriver 0.19.1
+1518120622532	geckodriver	INFO	Listening on 127.0.0.1:55906
+1518120626446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.nRPQyt8eOa9P"
+1518120627180	Marionette	INFO	Enabled via --marionette
+1518120629313	Marionette	INFO	Listening on port 55914
+1518120629570	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+1518120690643	geckodriver	INFO	geckodriver 0.19.1
+1518120690839	geckodriver	INFO	Listening on 127.0.0.1:56038
+1518120694425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.G3cevXZSfQ4V"
+1518120695368	Marionette	INFO	Enabled via --marionette
+1518120697454	Marionette	INFO	Listening on port 56046
+1518120697564	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+[Child 23956, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23916, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9256, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 22648, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518121241640	geckodriver	INFO	geckodriver 0.19.1
+1518121241650	geckodriver	INFO	Listening on 127.0.0.1:56413
+1518121245660	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.gXXVPWam9MhB"
+1518121246588	Marionette	INFO	Enabled via --marionette
+1518121248593	Marionette	INFO	Listening on port 56423
+1518121248776	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 1691518121440715	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.2zctWiKo3G4h"
+1518121441556	Marionette	INFO	Enabled via --marionette
+1518121444005	Marionette	INFO	Listening on port 56612
+1518121444384	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: resource://devtools/client/jsonview/converter-observer.js, line 93: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+[Parent 23676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23176, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 23676, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518121473483	geckodriver	INFO	geckodriver 0.19.1
+1518121473495	geckodriver	INFO	Listening on 127.0.0.1:56646
+1518121477458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.FPcr28XejDMn"
+1518121478216	Marionette	INFO	Enabled via --marionette
+1518121480289	Marionette	INFO	Listening on port 56654
+1518121480581	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 68441518121534591	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.4JLeJ8a0JntT"
+1518121535480	Marionette	INFO	Enabled via --marionette
+1518121537499	Marionette	INFO	Listening on port 56766
+1518121537711	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+[Child 16468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 16468, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[GPU 8852, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+1518121571340	geckodriver	INFO	geckodriver 0.19.1
+1518121571352	geckodriver	INFO	Listening on 127.0.0.1:56868
+1518121575358	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.pnL6UG9p9wec"
+1518121576265	Marionette	INFO	Enabled via --marionette
+1518121578406	Marionette	INFO	Listening on port 56876
+1518121578483	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 20728, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518121711437	geckodriver	INFO	geckodriver 0.19.1
+1518121711452	geckodriver	INFO	Listening on 127.0.0.1:57031
+1518121715283	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ytj6Z5LxH0jv"
+1518121716252	Marionette	INFO	Enabled via --marionette
+1518121718241	Marionette	INFO	Listening on port 57042
+1518121718428	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript error: https://assets.adobedtm.com/98fab992275ef6366cc65f57f86b1e895a66c912/scripts/satellite-58fa8c6c64746d190b008dcf.js, line 44: ReferenceError: somg is not defined
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1516379962, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1516924447, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1516924447, line 17: Error: Network Error
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 23932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 23932, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7416, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1518210382269	geckodriver	INFO	geckodriver 0.19.1
+1518210382441	geckodriver	INFO	Listening on 127.0.0.1:65287
+1518210385885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.ONbPRvUyTsLt"
+1518210387680	Marionette	INFO	Enabled via --marionette
+1518210389594	Marionette	INFO	Listening on port 65299
+1518210390017	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript error: https://assets.adobedtm.com/98fab992275ef6366cc65f57f86b1e895a66c912/scripts/satellite-58fa8c6c64746d190b008dcf.js, line 44: ReferenceError: somg is not defined
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript error: https://sc5.omniture.com/spa/dist/js/analytics-ra.min.js?l=en_US&version=1517932163, line 17: Error: Network Error
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 11496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 15296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Parent 4232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+Unable to read VR Path Registry from C:\Users\bryan.nonni\AppData\Local\openvr\openvrpaths.vrpath
+[Child 17840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 17840, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1519676721564	geckodriver	INFO	geckodriver 0.19.1
+1519676721724	geckodriver	INFO	Listening on 127.0.0.1:64732
+1519676725346	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.3CnTAKhhggUr"
+1519676728945	Marionette	INFO	Listening on port 64744
+1519676729098	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519676856636	Marionette	INFO	Ceased listening
+omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519676854164	Marionette	INFO	Ceased listening
+1519676867671	geckodriver	INFO	geckodriver 0.19.1
+1519676867680	geckodriver	INFO	Listening on 127.0.0.1:64915
+1519676871521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.2ZTqfJW8543d"
+1519676874960	Marionette	INFO	Listening on port 64923
+1519676875154	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+JavaScript error: resource://gre/components/nsUrlClassifierListManager.js, line 287: NS_ERROR_NOT_INITIALIZED: Component returned failure code: 0xc1f30001 (NS_ERROR_NOT_INITIALIZED) [nsIUrlClassifierDBService.getTables]
+1519677047282	Marionette	INFO	Ceased listening
+1519678026009	geckodriver	INFO	geckodriver 0.19.1
+1519678026186	geckodriver	INFO	Listening on 127.0.0.1:49494
+1519678030731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "--headless" "-profile" "C:\\Users\\BRYAN~1.NON\\AppData\\Local\\Temp\\rust_mozprofile.SGOmnEXDCeV6"
+1519678033966	Marionette	INFO	Listening on port 49509
+1519678034364	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/login/?r=%2Fsc15%2Freports%2Findex.html%3Fa%3DReport.Standard%26r%3DReport.GetConversions%26rp%3Dec_pri%257C108%253Bec_reset%257C1%26ssSession%3Dac0bcfc43800e14c4634d81dcab40def%26jpj%3D9284192613174#/, line 864: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
+JavaScript warning: https://sc5.omniture.com/spa/libs/scripts/jquery-2.0.3.min.js?v=1518050648, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://sc5.omniture.com/p/ap/1.2/js/omniture-page.js?l=en_US&version=1517932163, line 21: unreachable code after return statement
